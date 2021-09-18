@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Arcos',
     image: '/images/arcos.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 7,
   },
   {
-    _id: '2',
     name: 'Cassio',
     image: '/images/casio.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Emporio&Armani',
     image: '/images/emporio.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 4,
   },
   {
-    _id: '4',
     name: 'Fossil',
     image: '/images/fossil.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 3,
   },
   {
-    _id: '5',
     name: 'Kimmel',
     image: '/images/kimmel.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 6,
   },
   {
-    _id: '6',
     name: 'Rider',
     image: '/images/rider.jpg',
     description:
